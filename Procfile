@@ -1,0 +1,1 @@
+web: bundle exec ruby sintra_reverse_str.rb -p $PORT
